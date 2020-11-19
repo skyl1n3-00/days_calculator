@@ -1,5 +1,5 @@
 ## Days calculator project
-This project is written using Python. The idea of this project
+This project is written using Python, the idea of this project
  it's to calculate the number of days between two given dates.
 <br>
 This project doesn't have an interactive shell, which well ask
@@ -9,7 +9,11 @@ This project doesn't have an interactive shell, which well ask
 <br>
 The main function of the project is `number_days_between_two_dates(date_1, date_2)`, 
 and the other functions are just helper functions meant to 
-simplify and organize the code.
+simplify and organize the code, and every function has a docstring
+inside to explain what it does.
+<br>
+The file [costume_exceptions.py](custom_exceptions.py) contains two 
+exceptions two output same errors.
 
 ##### To use the function just import it from the file: 
 ```python
