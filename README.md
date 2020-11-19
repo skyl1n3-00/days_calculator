@@ -10,7 +10,7 @@ This project doesn't have an interactive shell, which well ask
 The main function of the project is `number_days_between_two_dates(date_1, date_2)`, 
 and the other functions are just helper functions meant to 
 simplify and organize the code, and every function has a docstring
-inside to explain what it does.
+inside it to explain what it does.
 <br>
 The file [costume_exceptions.py](custom_exceptions.py) contains two 
 exceptions two output same errors.
