@@ -13,7 +13,7 @@ simplify and organize the code, and every function has a docstring
 inside it to explain what it does.
 <br>
 The file [costume_exceptions.py](custom_exceptions.py) contains two 
-exceptions two output same errors.
+exceptions two output some errors.
 
 ##### To use the function just import it from the file: 
 ```python
